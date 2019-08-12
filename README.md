@@ -1,3 +1,4 @@
+![Too-Doo Homepage](img/homepage.JPG)
 # Too-Doo
 
 The Ultimate Todo Application
